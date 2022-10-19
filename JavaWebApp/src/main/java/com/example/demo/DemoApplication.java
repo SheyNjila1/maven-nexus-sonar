@@ -10,6 +10,5 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 	}
 		String name = "Shey";
-		System.out.println(name); 
 
 }
